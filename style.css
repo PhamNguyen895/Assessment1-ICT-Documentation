@@ -1,12 +1,13 @@
 body {
-    background-color: lightblue;
+    background-image: url("img/2.jpeg");
   }
-  
+
   h1 {
     color: white;
     text-align: center;
   }
   
   p {
+    color: white;
     font-family: verdana;
   }
